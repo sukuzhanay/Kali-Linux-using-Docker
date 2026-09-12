@@ -1,25 +1,31 @@
-# VIRTUALIZACION Y SEGURIDAD #
-# Kali Linux using Docker
-Dockerfile with a custom configuration of Kali Linux Os
+# Kali Linux en Docker — práctica docente
 
-![universidad-europea-logo](https://user-images.githubusercontent.com/17354471/218064896-b8411ee7-5cec-4e97-8a71-216a4e6f3bf4.png)
+Material histórico de virtualización que incluye un Dockerfile para una imagen basada en Kali Linux.
 
+## Scope
 
-# VIRTUALIZACION Y SEGURIDAD #
- ## UNIDAD 4 y 5 ! 
- _**DockerFile**_ elaboración de archivo DockerFile para la construcción de una imagen customizada de el sistema operativo Kali Linux.
- ![Design](https://github.com/sukuzhanay/Kali-Linux-using-Docker/blob/main/pythonProject/Docker_Kalix_Linux.png)
- 
-![Logo of the project](https://github.com/sukuzhanay/tfginder/blob/main/UEM-logo.png)
+El alcance demostrado es la configuración del contenedor y el material de clase. No se presenta como una auditoría de seguridad ni como una distribución mantenida.
 
-# Requisitos e Instalaciones
+## Technology / Material
 
-## Obligatorias
+Docker · Dockerfile · Python
 
-* [Visual Studio Code](https://code.visualstudio.com/)
+## Repository guide
 
-* [DockerHub](https://hub.docker.com/u/sukuzhanay)
+- [pythonProject/Dockerfile](pythonProject/Dockerfile)
+- [pythonProject/main.py](pythonProject/main.py)
+- [pythonProject/Docker_Kalix_Linux.png](pythonProject/Docker_Kalix_Linux.png)
 
-* [Git](https://git-scm.com/)
+## Getting started / Reproducibility
 
+Revisa `pythonProject/Dockerfile`, sus repositorios y dependencias antes de construir. La imagen y las descargas no se han probado de nuevo en esta revisión.
 
+## Author & learning context
+
+**Christian Vladimir Sucuzhanay Arévalo**
+
+Data & AI Solutions Architect | AWS Data Architecture | Generative AI & Amazon Bedrock | Big Data | Former University Lecturer
+
+[Entity Home](https://christiansucuzhanay.com/) · [Technical Portfolio](https://sukuzhanay.github.io/) · [LinkedIn](https://www.linkedin.com/in/sucuzhanay) · [AWS Builder](https://builder.aws.com/community/@sucuzhanay) · [GitHub](https://github.com/sukuzhanay)
+
+**Build. Explain. Teach. Share.**
